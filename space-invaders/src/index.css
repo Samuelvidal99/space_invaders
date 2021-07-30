@@ -1,0 +1,30 @@
+/*.game {
+    background-color: #282c34;
+    height: 95vh;
+    text-align: center;
+}
+
+.game-board {
+    background-color: firebrick;
+}*/
+
+.game-board {
+    background-color: seagreen;
+    padding-bottom: 66vh;
+    
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #282c34;
+}
+
+.space-ship {
+    position: relative;
+    /*left: 100vh;
+    top: 30vh;*/
+}
